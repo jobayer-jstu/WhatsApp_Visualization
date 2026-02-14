@@ -1,0 +1,5 @@
+Extract WhatsApp Chat Data
+
+* Open WhatsApp → Go to a chat → More → Export Chat
+* Choose Without Media (simpler) or Include Media (larger file size)
+* Save the chat as a .txt file
